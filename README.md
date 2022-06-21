@@ -12,4 +12,6 @@ The text-decoration element (line 49 in the CSS) didn't seem to do anything, so 
 
 I removed the .header h1 class/element from line 25 because it didn't seem to be necessary. It is only the .seo class that is affected by the color in line 26.
 
+I moved the content class, paragraph class so that it matches the layout order of the HTML.
+
 # End of README
